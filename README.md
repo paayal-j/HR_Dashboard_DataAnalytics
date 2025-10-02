@@ -1,5 +1,5 @@
 # HR_Dashboard_DataAnalytics
-## TESTING TABLEAU/ POWER BI REPORTS IN SQL
+## TESTING POWER BI REPORTS IN SQL
 
 ### Create Table
 ```
